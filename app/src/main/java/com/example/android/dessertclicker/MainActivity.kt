@@ -180,7 +180,6 @@ class MainActivity : AppCompatActivity() {
         outState.putInt(KEY_DESSERT_SOLD, dessertsSold)
         outState.putInt(KEY_TIMER_SECONDS, dessertTimer.secondsCount)
     }
-
     /** Lifecycle Methods **/
     override fun onStart() {
         super.onStart()
