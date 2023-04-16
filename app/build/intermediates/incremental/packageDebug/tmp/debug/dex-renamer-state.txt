@@ -1,4 +1,4 @@
-#Sun Apr 16 17:37:29 EEST 2023
+#Sun Apr 16 18:00:29 EEST 2023
 base.0=D\:\\Uni_DZ\\kurs_3\\s2\\android\\Laba4.1\\android-kotlin-fundamentals-starter-apps-master\\android-kotlin-fundamentals-starter-apps-master\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
